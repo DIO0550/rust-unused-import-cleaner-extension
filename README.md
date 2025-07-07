@@ -1,1 +1,1 @@
-# rust-auto-import-fix-extension
+# rust-unused-import-cleaner
